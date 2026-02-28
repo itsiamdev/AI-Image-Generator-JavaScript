@@ -2,6 +2,10 @@
 
 A modern, stylish web application that generates images from text descriptions using artificial intelligence.
 
+## 🔗 Live Demo
+
+Check out the live version here: https://iam269.github.io/AI-Image-Generator-JavaScript/
+
 ![AI Image Generator Screenshot](images/Screenshot.png)
 
 ## ✨ Description
